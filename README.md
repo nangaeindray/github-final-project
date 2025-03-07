@@ -8,7 +8,7 @@ Input:
    * r, annual rate of interest<br>
    
 Output:<br>
-   simple interest = p\*t\*r
+    simple interest = p\*t\*r
 
 ## License
 
