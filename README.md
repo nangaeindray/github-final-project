@@ -9,7 +9,3 @@ Input:
    
 Output:<br>
   simple interest = p \*t \*r
-
-## License
-
-[Apache License 2.0](https://github.com/nangaeindray/github-final-project/blob/main/LICENSE)
